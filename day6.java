@@ -6,9 +6,6 @@ public class KHALIQ {
         // Deklarasi variabel
         int umur = 18;
         String nama = "khaliq";
-
-        // Mencetak nilai variabel
-        System.out.println("Nama: " + khaliq);
-        System.out.println("umur: " + 18);
+String alamat = " pamboang ";
     }
 }
