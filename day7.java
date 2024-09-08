@@ -3,6 +3,8 @@ package isc;
 public class KHALIQ {
     
     public static void main(String[] args) {
+       
+    //Inisialisasi Variabel
         String nama = "khaliq";
         String alamat = "lingk TADUANG";
         String hobi = "Olahraga";
