@@ -2,7 +2,7 @@ package isc;
 
 public class KHALIQ {
    public static void main(String[] args) {
-        // Deklarasi variabel dan inisialisasi
+        // Deklarasi variabel update
         String nama = khaliq;
         int umur    = 18
         // Menampilkan nilai awal
