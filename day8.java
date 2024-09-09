@@ -7,7 +7,7 @@ public class KHALIQ {
         int umur    = 18
         // Menampilkan nilai awal
         System.out.println("nama: " + nama);
-        System.out.println("umur: " + umur
+        System.out.println("umur: " + umur);
         // Meng-update nilai variabel
         nama = khaliq;
         umur = 18;
