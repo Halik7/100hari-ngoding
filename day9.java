@@ -3,7 +3,7 @@ package isc;
 public class KHALIQ {
   
    public static void main(String[] args) {
-   // constanta (Final variable) 
+   // constanta (Final variable)Konstanta final variable adalah variabel yang nilainya tidak dapat diubah setelah diinisialisasi 
    final string nama, kelas, mentor;
    int hari;
 
