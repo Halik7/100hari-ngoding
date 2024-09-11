@@ -3,9 +3,8 @@ public class KHALIQ {
    public static void main(String[] args) {
     // tipe data byte
 
-    nilai byte angka
     byte angka1=10 ;
-         angka2=-10 ;
+    byte angka2=-10 ;
 
    // perjumlahan
        byte Hasilperjumlahan = angka1 + angka2;
