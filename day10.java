@@ -8,17 +8,14 @@ public class KHALIQ {
     nilai byte angka
     byte angka1=10 +;
          angka2=-10 -;
-         angak3=15 *;
+         hasil = ? 
 
-   
+   // hasil byte angka 
+    System.out printf=(byte)"hasil angka1+angka2") ;
+    System.out printf=(byte)"hasil angka1-angka2") ;
 
-
-    hasil byte angka 
-    System.out printf=(byte)"perjumlahan angka1+perjumlahan) ;
-    System.out printf=(byte)"pengurangan angka2+pengurangan) ;
-    System.out printf=(byte)"perkalian angka3+perkalian) ;
-
-
+   angka1 = 10 +-10 =0
+   angka2 = 10--10  =20
 
     }
     
