@@ -7,12 +7,15 @@ public class KHALIQ {
     nilai byte angka
     byte angka1=10 ;
          angka2=-10 ;
-    
 
-   // hasil byte angka 
-    System.out println=(byte)"hasil perjumlahan" angka1+angka2) ;
-    System.out println=(byte)"hasil pengurangan" angka1-angka2) ;
-
+   // perjumlahan
+       byte Hasilperjumlahan = angka 1 + angka 2;
+         System.out.println("Hasil Perjumlahan: " + hasilperjumlahan);
+   
+   // Pengurangan
+        byte hasilPengurangan = angka 1 - angka 2;
+        System.out.println("Hasil Pengurangan: " + hasilPengurangan);
+   
 // outputnya= 0
 // outputnya= 20
 
