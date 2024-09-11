@@ -1,8 +1,7 @@
 package isc;
 
 public class KHALIQ {
-    
-    public static void main(String[] args) {
+   public static void main(String[] args) {
    // tipe data byte
 
     nilai byte angka
