@@ -8,11 +8,11 @@ public class KHALIQ {
 
    // perjumlahan
        byte Hasilperjumlahan = angka1 + angka2;
-         System.out.println("hasil perjumlahan: " + hasilperjumlahan);
+         System.out.println("Hasil perjumlahan: " + hasilperjumlahan);
    
    // Pengurangan
         byte hasilPengurangan = angka1 - angka2;
-        System.out.println("hasil pengurangan: " + hasilpengurangan);
+        System.out.println("hasil Pengurangan: " + hasilpengurangan);
    
 // outputnya= 0
 // outputnya= 20
