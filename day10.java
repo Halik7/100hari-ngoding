@@ -1,3 +1,4 @@
+package isc;
 public class KHALIQ {
    public static void main(String[] args) {
     // tipe data byte
