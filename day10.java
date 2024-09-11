@@ -1,12 +1,21 @@
-package isc;
-
 public class KHALIQ {
    public static void main(String[] args) {
-       //ini method
-        byte ukuran = 43;
-         //byte digunakan untuk bilangan desimal
-    System.out.println("Ukuran sepatu = " + ukuran + "cm");
-    // System out ini untuk memanggil type data byte yang ada di atas
+    // tipe data byte
+
+    nilai byte angka
+    byte angka1=10 ;
+         angka2=-10 ;
+
+   // perjumlahan
+       byte Hasilperjumlahan = angka1 + angka2;
+         System.out.println("Hasil Perjumlahan: " + hasilperjumlahan);
+   
+   // Pengurangan
+        byte hasilPengurangan = angka1 - angka2;
+        System.out.println("Hasil Pengurangan: " + hasilPengurangan);
+   
+// outputnya= 0
+// outputnya= 20
 
     }
     
