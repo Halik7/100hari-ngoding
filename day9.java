@@ -1,18 +1,19 @@
-package isc;
+package mentoring_armawan;
 
-public class KHALIQ {
-  
-   public static void main(String[] args) {
-   // constanta (Final variable)Konstanta final variable adalah variabel yang nilainya tidak dapat diubah setelah diinisialisasi 
-   final string nama, kelas, mentor;
-   int hari;
+public class day9 {
+    
+     public static void main(String[] args) {
+       
+    // constanta (Final variable)Konstanta final variable adalah variabel yang nilainya tidak dapat diubah setelah diinisialisasi 
+         
+    final  String nama  = "Khaliq";
+    final String alamat = "pamboang";
+    final String mentor = "kak armawan";
+    
 
-   nama  = "Khaliq";
-   kelas = "Informatika D";
-   mentor= "kak armawan";
-   hari  = 9;
-
-   System.out.printf("nama   :%s \n", nama) ;
-   System.out.printf("kelas  :%s \n", kelas) ;
-   System.out.printf("mentor :%s \n", mentor) ;
-   System.out.printf(" progres:hari ke%d \n", hari) ; 
+    System.out.println ("nama   : "+ nama) ;
+    System.out.println ("alamat  : "+ alamat) ;
+    System.out.println ("mentor : "+ mentor) ;
+    
+   }
+}
