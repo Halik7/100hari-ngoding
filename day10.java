@@ -1,22 +1,15 @@
-package isc;
-public class KHALIQ {
-   public static void main(String[] args) {
-    // tipe data byte
+package mentor_armawan;
 
-    byte angka1=10 ;
-    byte angka2=-10 ;
-
-   // perjumlahan
-       byte Hasilperjumlahan = angka1 + angka2;
-         System.out.println("Hasil perjumlahan: " + Hasilperjumlahan);
-   
-   // Pengurangan
-        byte hasilPengurangan = angka1 - angka2;
-        System.out.println("hasil Pengurangan: " + hasilPengurangan);
-   
-// outputnya= 0
-// outputnya= 20
-
-    }
+public class day10 {
     
+         public static void main(String[] args) {
+        
+        //tipe data byte ,tipe data yang  dapat menampung nilai dari -128 hingga 127.
+             
+             byte Nilaimax = 127;
+             
+             System.out.println("nilai maksimum adalah "+ Nilaimax);
+        
+      }
+
 }
