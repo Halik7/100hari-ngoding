@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args) {
       // tipe data short
         short jumlah = 100;
-        
-    System.out.println ("jumlah alam semesta " + jumlah);
+      // tipe data short adalah untuk bilang bulat dari -32768 sampai 32767 
+    System.out.println ("jumlah " + jumlah);
         
     }
     
