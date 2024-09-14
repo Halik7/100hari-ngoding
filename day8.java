@@ -1,19 +1,20 @@
-package isc;
+package mentoring_armawan;
 
-public class KHALIQ {
-   public static void main(String[] args) {
+public class Main {
+    
+    public static void main(String[] args) {
         // Deklarasi variabel update
-        String nama = khaliq;
-        int umur    = 18
+        String nama = "KHALIQ";
+        int umur    = 17;
         // Menampilkan nilai awal
         System.out.println("nama: " + nama);
         System.out.println("umur: " + umur);
         // Meng-update nilai variabel
-        nama = khaliq;
+        nama = "Halik";
         umur = 18;
         // Menampilkan nilai setelah update
         System.out.println("nama: " + nama);
-        System.out.println("umur: " +umur) ;
+        System.out.println("umur: " + umur) ;
 
     }
-}
+} 
