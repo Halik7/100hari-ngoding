@@ -3,7 +3,8 @@ package mentor_armawan;
 public class Day19 {
     
     public static void main(String[] args) {
-        
+
+        //tipe data reference String
        String alamat1 = "pamboang";
        String alamat2 = alamat1;
         
