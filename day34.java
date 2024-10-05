@@ -8,11 +8,11 @@ public class day34 {
         Scanner scanner = new Scanner(System.in);
 
         // Mengambil input berupa string
-        System.out.print("Masukkan nama Anda: ");
+        System.out.print("Masukkan nama :");
         String nama = scanner.nextLine();
 
         // Mengambil input berupa integer
-        System.out.print("Masukkan usia Anda: ");
+        System.out.print("Masukkan usia :");
         int usia = scanner.nextInt();
 
         // Menampilkan input yang telah diambil
