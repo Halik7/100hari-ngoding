@@ -19,6 +19,9 @@ public class day34 {
         System.out.println("Nama Anda adalah: " + nama);
         System.out.println("Usia Anda adalah: " + usia + " tahun");
 
+        
+        scanner.close();//Menutup Scanner untuk menghindari kebocoran memori
+    
     }
     
 }
