@@ -10,9 +10,9 @@ public class day35 {
         int angka1 = input.nextInt();
         System.out.print("masukkan angka :");
         int angka2 = input.nextInt();
-        int hasilPerjumlahan = angka1 + angka2 ;
+        int hasilPenjumlahan = angka1 + angka2 ;
         int hasilPengurangan = angka1 - angka2 ;
-        System.out.println("hasil perjumlahan :"+hasilPerjumlahan);
+        System.out.println("hasil penjumlahan :"+hasilPerjumlahan);
         System.out.println("hasil pengurangan :"+hasilPengurangan);
         
         input.close();
