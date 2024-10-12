@@ -68,6 +68,13 @@ public class evaluasi {
         System.out.println(angka3/=angka4);
         System.out.println(angka3%=angka4);
         
+        // operator perbandingan
+        System.out.print("masukkan angka :");
+        int angka5 = input.nextInt();
+        System.out.print("masukkan angka :");
+        int angka6 = input.nextInt();
+        System.out.println(angka5>angka6);
+        System.out.println(angka5<angka6);
         
     }
     
