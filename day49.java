@@ -4,17 +4,15 @@ public class day49 {
     
     public static void main(String[] args) {
         Scanner a = new Scanner (System.in);
-        System.out.print("masukkan angka : ");
-        int b = a.nextInt();
-        System.out.print("masukkan angka : ");
-        int c = a.nextInt();
+        System.out.print("masukkan waktu : ");
+        int waktu = a.nextInt();
         
-        if(b >= c ){
-        System.out.println("b lebih besar sama dengan dari c");  
-        }else if(b==c){
-        System.out.println("b sama dengan c");
+        if(waktu < 10 ){
+        System.out.println("pagi");  
+        }else if(waktu >= 20){
+        System.out.println("siang");
         }else{
-         System.out.println("NOL");
+         System.out.println("sore");
         }
         
         
